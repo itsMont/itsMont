@@ -1,3 +1,5 @@
+
+
 - 👋 Hi, I’m @itsMont
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning C and Java
@@ -18,9 +20,11 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+🔥 Editors: 
+Codium                   9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
+Atom                     5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
+Neovim                   2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
+
+💻 Operating Systems: 
+Linux                    17 hrs 5 mins       ███████████████░░░░░░░░░░   60.0%
+Windows                  17 hrs 5 mins       █████████████████░░░░░░░░   68.0%
