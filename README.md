@@ -1,3 +1,4 @@
+![bannerSmall](https://user-images.githubusercontent.com/95319052/164341520-1e259f82-9726-4c18-9073-78bb01269955.png)
 
 
 - 👋 Hi, I’m @itsMont
