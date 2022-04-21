@@ -15,8 +15,6 @@
 
 
 ---
-
-<img src="https://img.shields.io/github/followers/itsMont.svg?style=social&label=Follow&maxAge=2592000" alt="Follow me!"/>
 <img src="http://ForTheBadge.com/images/badges/built-with-science.svg" alt="Made with Science"/>
 
 <!---
