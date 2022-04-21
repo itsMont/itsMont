@@ -1,7 +1,8 @@
 # About Me 
 - 👋 Hi, I’m @itsMont. I'm looking forward to become a Full Stack Developer.
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C and Java
+- 🌱 I’m currently learning C and Java.
+- 👷‍♂️ Making projects with HTML, CSS and JS
 - 💞️ I’m looking to collaborate on FOSS apps,
 
 ## My Main Distros
