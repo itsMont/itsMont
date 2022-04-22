@@ -1,10 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&size=45&color=6BCD2C&background=DAFF0000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Jhojan+M.+%7C+Computer+Science)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&duration=6000&color=6BCD2C&background=DAFF0000&center=true&vCenter=true&multiline=true&width=900&height=95&lines=%3E+Software+Dev.;%3E+Productivity;%3E+Open-Source)](https://git.io/typing-svg)
 
-<h1 align="center">
+<div align="center">
+<h1>
   À propos de moi
   <img src="https://media.giphy.com/media/ruERFTnOTqTxoNCEdE/giphy.gif" alt="Guitar" height="45"/>
 </h1>
+<img src="https://media.giphy.com/media/OfrFS8naBB7RX2qhKq/giphy.gif" height="300"/>
+</div>
 
 - 👋 Hi, I’m @itsMont. I'm a CS Student looking to become a Full Stack Developer.
 - 👀 I’m interested in Web Development, Competitive Programming, Self-taught education and Productivity.
