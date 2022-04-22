@@ -11,7 +11,7 @@
 
 - 👋 Hi, I’m @itsMont. I'm a CS Student looking to become a Full Stack Developer.
 - 👀 I’m interested in Web Development, Competitive Programming, Self-taught education and Productivity.
-- 🌱 I’m currently learning C and Java. And attending amazing [David Malan CS50 classes](https://youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL).
+- 🌱 I’m currently learning C and Java. And attending amazing [David Malan's CS50 classes](https://youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL).
 - 👷‍♂️ Building projects using HTML, CSS and JS.
 - 💞️ I’m looking to collaborate on FOSS apps in the mid-term
 
