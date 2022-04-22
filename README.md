@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&size=45&color=6BCD2C&background=DAFF0000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Jhojan+M.+%7C+Computer+Science)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&duration=6000&color=6BCD2C&background=DAFF0000&center=true&vCenter=true&multiline=true&width=900&height=95&lines=%3E+Software+Dev.;%3E+Productivity;%3E+Open-Source)](https://git.io/typing-svg)
 
-# About Me 
+<h1 align="center">
+  À propos de moi
+  <img src="https://media.giphy.com/media/ruERFTnOTqTxoNCEdE/giphy.gif" alt="Guitar" height="45"/>
+</h1>
+
 - 👋 Hi, I’m @itsMont. I'm a CS Student looking to become a Full Stack Developer.
 - 👀 I’m interested in Web Development, Competitive Programming, Self-taught education and Productivity.
 - 🌱 I’m currently learning C and Java. And attending amazing [David Malan CS50 classes](https://youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL).
@@ -24,6 +28,7 @@
 
 ### Currently diving into 🚵‍♂️
 <div id="badges">
+ <h3></h3>
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Springboot"/>
  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
@@ -35,9 +40,12 @@
 
 
 ---
-<img src="http://ForTheBadge.com/images/badges/built-with-science.svg" alt="Made with Science"/>
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Made with love"/>
-<img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with love"/>
+<div align="center">
+ <img src="http://ForTheBadge.com/images/badges/built-with-science.svg" alt="Made with Science"/>
+ <img src="https://forthebadge.com/images/badges/powered-by-water.svg" alt="Made with love"/>
+ <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with love"/>
+
+</div>
 <!---
 itsMont/itsMont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
