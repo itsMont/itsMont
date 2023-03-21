@@ -6,14 +6,19 @@
   À propos de moi
   <img src="https://media.giphy.com/media/ruERFTnOTqTxoNCEdE/giphy.gif" alt="Guitar" height="45"/>
 </h1>
-  <img src="https://media.giphy.com/media/l41lZ16LyG3PGD2WA/giphy.gif" height="500"/>
-</div>
+</div> 
+  
 
-- 👋 Hi, I’m @itsMont. I'm a CS Student looking to become a Full Stack Developer and Machine Learning Guru 🧘‍♂️.
-- 👀 I’m interested in Machine Learning, Competitive Programming, Self-taught education and Productivity.
-- 🌱 I’m currently learning C and Kotlin. And attending amazing [David Malan's CS50 classes](https://youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL).
-- 🧠 Expecting to become a Algotithm savy.
-- 💞️ I’m looking to collaborate on FOSS apps in the mid-term.
+<div>
+  <img src="https://media.giphy.com/media/l4FGJmQxaerZV8Ig0/giphy.gif" height="300"  align="right"/>
+  <ul>
+    <li> 👋 Hi, I’m @itsMont. I'm a CS Student looking to become a Full Stack Developer and Machine Learning Guru 🧘‍♂️. </li>
+    <li> 👀 I’m interested in Machine Learning, Competitive Programming, Self-taught education and Productivity. </li>
+    <li> 🌱 I’m currently learning C and Kotlin. And attending amazing [David Malan's CS50 classes](https://youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL).</li>
+    <li> 🧠 Expecting to become a Algotithm savvy.</li>
+    <li> 💞️ I’m looking to collaborate on FOSS apps in the mid-term.</li>
+  </ul>
+</div>
 
 ## My Main Distros 💻 🐧
  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint"/>
