@@ -14,7 +14,7 @@
   <ul>
     <li> 👋 Hi, I’m @itsMont. I'm a CS Student looking to become a Full Stack Developer and Machine Learning Guru 🧘‍♂️. </li>
     <li> 👀 I’m interested in Machine Learning, Competitive Programming, Self-taught education and Productivity. </li>
-    <li> 🌱 I’m currently learning C and Kotlin. And attending amazing [David Malan's CS50 classes](https://youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL).</li>
+    <li> 🌱 I’m currently learning C and Kotlin. And attending amazing <a href="https://youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL">David Malan's CS50 classes</a> </li>
     <li> 🧠 Expecting to become a Algotithm savvy.</li>
     <li> 💞️ I’m looking to collaborate on FOSS apps in the mid-term.</li>
   </ul>
