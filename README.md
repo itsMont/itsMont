@@ -6,14 +6,14 @@
   À propos de moi
   <img src="https://media.giphy.com/media/ruERFTnOTqTxoNCEdE/giphy.gif" alt="Guitar" height="45"/>
 </h1>
-<img src="https://media.giphy.com/media/OfrFS8naBB7RX2qhKq/giphy.gif" height="300"/>
+  <img src="https://media.giphy.com/media/l41lZ16LyG3PGD2WA/giphy.gif" height="500"/>
 </div>
 
-- 👋 Hi, I’m @itsMont. I'm a CS Student looking to become a Full Stack Developer.
-- 👀 I’m interested in Web Development, Competitive Programming, Self-taught education and Productivity.
-- 🌱 I’m currently learning C and Java. And attending amazing [David Malan's CS50 classes](https://youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL).
-- 👷‍♂️ Building projects using HTML, CSS and JS.
-- 💞️ I’m looking to collaborate on FOSS apps in the mid-term
+- 👋 Hi, I’m @itsMont. I'm a CS Student looking to become a Full Stack Developer and Machine Learning Guru 🧘‍♂️.
+- 👀 I’m interested in Machine Learning, Competitive Programming, Self-taught education and Productivity.
+- 🌱 I’m currently learning C and Kotlin. And attending amazing [David Malan's CS50 classes](https://youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL).
+- 🧠 Expecting to become a Algotithm savy.
+- 💞️ I’m looking to collaborate on FOSS apps in the mid-term.
 
 ## My Main Distros 💻 🐧
  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint"/>
@@ -27,16 +27,18 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>  
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/>
+ <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt = "Kotlin"/> 
+ <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </div>
 
 ### Currently diving into 🚵‍♂️
 <div id="badges">
  <h3></h3>
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Springboot"/>
+ <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPY" />
+ <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+ <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HAckerrank" />
  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>  
 </div>
 
@@ -46,7 +48,7 @@
 <div align="center">
  <img src="http://ForTheBadge.com/images/badges/built-with-science.svg" alt="Made with Science"/>
  <img src="https://forthebadge.com/images/badges/powered-by-water.svg" alt="Made with love"/>
- <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with love"/>
+ <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with MD"/>
 
 </div>
 <!---
