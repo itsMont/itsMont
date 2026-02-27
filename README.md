@@ -10,7 +10,7 @@
   
 
 <div>
-  <img src="https://media.giphy.com/media/l4FGJmQxaerZV8Ig0/giphy.gif" height="300"  align="right"/>
+  <img src="https://media.giphy.com/media/l4FGJmQxaerZV8Ig0/giphy.gif" height="250"  align="right"/>
   <ul>
     <li> 👋 Hi, I’m @itsMont. I'm a CS Student looking to become a Full Stack Developer and Machine Learning Guru 🧘‍♂️. </li>
     <li> 👀 I’m interested in Machine Learning, Competitive Programming, Self-taught education and Productivity. </li>
@@ -18,7 +18,13 @@
     <li> 🧠 Expecting to become an Algorithm savvy.</li>
     <li> 💞️ I’m looking to collaborate on FOSS apps in the mid-term.</li>
   </ul>
+  <div>
+    
+  </div>
 </div>
+
+<br>
+
 
 ## My Main Distros 💻 🐧
  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint"/>
