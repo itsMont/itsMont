@@ -10,7 +10,7 @@
   
 
 <div>
-  <img src="https://media.giphy.com/media/l4FGJmQxaerZV8Ig0/giphy.gif" height="250"  align="right"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHF0czN4cm1hMmttaGl1bmtqampjdDZ3cGRuOGoxbmUwMHdlb2FxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zi2FQvx8c6jXZB9dm/giphy.gif" height="250"  padding="10px" align="right"/>
   <ul>
     <li> 👋 Hi, I’m @itsMont. I'm a CS Student looking to become a Full Stack Developer and Machine Learning Guru 🧘‍♂️. </li>
     <li> 👀 I’m interested in Machine Learning, Competitive Programming, Self-taught education and Productivity. </li>
